@@ -3,7 +3,7 @@
 ${url}       Dev         # input Env : Dev | Uat    
 ${urlDev}    #
 ${urlUat}    #
-# input Username / Password
+input Username / Password
 ${user}          #
 ${password}      #
 # Edit file Result
